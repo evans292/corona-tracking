@@ -60,19 +60,19 @@ background-color: white;
 <div class="container">
 
 <div class="row mt-4">
-<div class="col-lg-12">
+<div class="col-lg-12 col-sm-12">
 <h1 class="text-center" style="font-weight: lighter;">KAWAL CORONA</h1>
 </div>
 </div>
 <div class="row mt-4">
-<div class="col-lg-12">
+<div class="col-lg-12 col-sm-12">
 <h3 class="text-center" style="font-weight: lighter;">Coronavirus Global & Indonesia Live Data</h3>
 </div>
 </div>
 
 
 <div class="row mt-5">
-<div class="col-xl-3 col-md-6 mb-4">
+<div class="col-xl-3 col-md-6 mb-4 col-sm-12">
 <div class="card border-left-primary shadow h-100 py-2 bg-danger">
 <div class="card-body">
 <div class="row no-gutters align-items-center">
@@ -90,7 +90,7 @@ background-color: white;
 </div>
 
 <!-- Earnings (Monthly) Card Example -->
-<div class="col-xl-3 col-md-6 mb-4">
+<div class="col-xl-3 col-md-6 mb-4 col-sm-12">
 <div class="card border-left-primary shadow h-100 py-2 bg-success">
 <div class="card-body">
 <div class="row no-gutters align-items-center">
@@ -108,7 +108,7 @@ background-color: white;
 </div>
 
 <!-- Earnings (Monthly) Card Example -->
-<div class="col-xl-3 col-md-6 mb-4">
+<div class="col-xl-3 col-md-6 mb-4 col-sm-12">
 <div class="card border-left-primary shadow h-100 py-2 bg-dark">
 <div class="card-body">
 <div class="row no-gutters align-items-center">
@@ -126,7 +126,7 @@ background-color: white;
 </div>
 
 <!-- Pending Requests Card Example -->
-<div class="col-xl-3 col-md-6 mb-4">
+<div class="col-xl-3 col-md-6 mb-4 col-sm-12">
 <div class="card border-left-primary shadow h-100 py-2 bg-warning">
 <div class="card-body">
 <div class="row no-gutters align-items-center">
@@ -153,7 +153,7 @@ background-color: white;
 </div>
 
 <div class="row">
-<div class="col-lg-12">
+<div class="col-lg-12 col-sm-12">
 <h6 class="text-center" style="font-weight: lighter;">Sumber data : Kementerian Kesehatan & JHU</h6>
 <h6 class="text-center" style="font-weight: lighter;" id="date"></h6>
 </div>
@@ -236,7 +236,7 @@ background-color: white;
 
 <div class="row row-cols-1 row-cols-md-2">
 
-<div class="col mb-4">
+<div class="col mb-4 col-sm-12">
 <a href="https://www.unicef.org/indonesia/id/coronavirus" style="text-decoration: none;">
 <div class="card shadow">
 <div class="card-body bg-danger text-white rounded">
@@ -247,7 +247,7 @@ background-color: white;
 </a>
 </div>
 
-<div class="col mb-4">
+<div class="col mb-4 col-sm-12">
 <a href="https://www.kompas.com/tren/read/2020/03/03/183500265/infografik-daftar-100-rumah-sakit-rujukan-penanganan-virus-corona" style="text-decoration: none;">
 <div class="card shadow">
 <div class="card-body bg-info text-white rounded">
@@ -259,7 +259,7 @@ background-color: white;
 </div>
 
 
-<div class="col mb-4">
+<div class="col mb-4 col-sm-12">
 <a href="https://infeksiemerging.kemkes.go.id/" style="text-decoration: none;">
 <div class="card shadow">
 <div class="card-body bg-success text-white rounded">
@@ -270,7 +270,7 @@ background-color: white;
 </a>
 </div>
 
-<div class="col mb-4">
+<div class="col mb-4 col-sm-12">
 <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public" style="text-decoration: none;">
 <div class="card shadow">
 <div class="card-body bg-warning text-white rounded">
